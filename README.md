@@ -1,7 +1,7 @@
 
 # 💫 About Me:
 ### Hi there 👋
-I'm Computer Science Undergrad<br>I'm currently learning MERN stack
+Master's Student at Saarland University <br> Likes to create Mobile application specifically in Flutter<br>I'm currently learning MERN stack
 
 
 ## 🌐 Socials:
