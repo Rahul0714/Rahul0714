@@ -1,7 +1,7 @@
 
 # 💫 About Me:
 ### Hi there 👋
-I'm Master's Student at Saarland University <br> Likes to create Mobile applications specifically in Flutter<br>Currently learning MERN stack
+Likes to create Mobile applications specifically in Flutter<br>Currently learning MERN stack
 
 
 ## 🌐 Socials:
